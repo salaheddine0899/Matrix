@@ -1,0 +1,5 @@
+﻿  Matrice.cpp
+C:\Users\a\Documents\poo\MatrixLib\MatrixLib\Matrice.cpp(37): warning C4715: 'LA::Matrice::operator+': not all control paths return a value
+C:\Users\a\Documents\poo\MatrixLib\MatrixLib\Matrice.cpp(53): warning C4715: 'LA::Matrice::operator-': not all control paths return a value
+C:\Users\a\Documents\poo\MatrixLib\MatrixLib\Matrice.cpp(76): warning C4715: 'LA::Matrice::operator*': not all control paths return a value
+  MatrixLib.vcxproj -> C:\Users\a\Documents\poo\MatrixLib\Debug\MatrixLib.lib
