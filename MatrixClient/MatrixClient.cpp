@@ -6,12 +6,12 @@
 using namespace LA;
 int main()
 {
-    Matrice m(2,2);
+    Matrice<int> m(2,2);
     m.Remplissage(2);
     m.print();
-    Matrice m2(2, 2);
+    Matrice<int> m2(2, 2);
     m2.Remplissage(1);
-    Matrice m3 = m + m2;
+    Matrice<int> m3 = m + m2;
     m3.print();
     m3 = m * 3;
     m3.print();

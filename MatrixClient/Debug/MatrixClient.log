@@ -1,1 +1,3 @@
-﻿  MatrixClient.vcxproj -> C:\Users\a\Documents\poo\MatrixLib\Debug\MatrixClient.exe
+﻿  MatrixClient.cpp
+C:\Users\a\Documents\poo\MatrixLib\MatrixLib\Matrice.h(61): warning C4715: 'LA::Matrice<int>::operator+': not all control paths return a value
+  MatrixClient.vcxproj -> C:\Users\a\Documents\poo\MatrixLib\Debug\MatrixClient.exe
